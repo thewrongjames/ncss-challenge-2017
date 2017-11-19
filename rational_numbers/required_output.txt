@@ -1,0 +1,63 @@
+What is ³/₄ + ²/₇?
+0) 3
+1) ²/₅
+2) 1
+3) 1¹/₂₈
+> 3
+Correct!
+
+What is ²/₇ - 0?
+0) 4¹/₂
+1) ²/₇
+2) 2
+3) 3¹/₂
+> 1
+Correct!
+
+What is 3¹/₃ ÷ 1¹/₅?
+0) 1¹/₂
+1) 2⁷/₉
+2) ¹/₂
+3) ¹/₉
+> 2
+Incorrect. The correct answer was: 2⁷/₉
+
+What is ³/₁₀ × 1?
+0) 1¹/₇
+1) ³/₁₀
+2) ⁸/₉
+3) 1⁴/₅
+> 1
+Correct!
+
+What is 4 - ¹/₆?
+0) 0
+1) 8
+2) 1
+3) 3⁵/₆
+> 3
+Correct!
+
+What is ²/₉ × ²/₃?
+0) ¹/₄
+1) ⁴/₂₇
+2) ³/₁₀
+3) ⁵/₇
+> 1
+Correct!
+
+What is ¹/₄ × ⁴/₉?
+0) ¹/₉
+1) 0
+2) 4¹/₂
+3) 5
+> 2
+Incorrect. The correct answer was: ¹/₉
+
+What is 5 ÷ 1⁴/₅?
+0) ⁶/₇
+1) 2⁷/₉
+2) ¹/₂
+3) 0
+>
+Invalid input. The correct answer was: 2⁷/₉
